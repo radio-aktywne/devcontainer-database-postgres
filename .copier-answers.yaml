@@ -1,0 +1,13 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: 0.10.0
+_src_path: gh:radio-aktywne/template-devcontainer
+accountname: radio-aktywne
+description: Devcontainer for PostgreSQL databases 🐘
+devcontainername: database-postgres
+docs: true
+docsurl: https://radio-aktywne.github.io/devcontainer-database-postgres
+imagename: devcontainers/database-postgres
+registry: true
+releases: true
+reponame: devcontainer-database-postgres
+repourl: https://github.com/radio-aktywne/devcontainer-database-postgres
